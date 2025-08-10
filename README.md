@@ -1,2 +1,1 @@
-# MathewuDocs
-Docs for my private bot - Mathewu
+Docs for my **private bot** - Mathewu
