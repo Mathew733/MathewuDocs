@@ -17,6 +17,7 @@
 Dlatego ważna jest zmiana permisji komend w 
 ``Ustawienia serwera->integracje->Mathewu``<img src="_media/integracje.gif" alt="gif" width="60%">
 
+?> Osoby z permisją ``zarządzanie wiadomościami`` nie mogą zostać zmutowani, wyrzuceni czy zbanowani.ㅤㅤㅤㅤㅤㅤㅤㅤUprawnienie ``Administrator`` nadpisuje tę zasadę.
 
 |Nazwa|Opis|
 | --- | -- |
@@ -39,6 +40,7 @@ Dlatego ważna jest zmiana permisji komend w
 <!-- tab:Publiczne -->
 |Nazwa|Opis|
 | --- | ---|
+|**/dokumentacja**, **/komendy**| Wysyła link do Docs
 |**/AvatarURL** [user]|Przesyła avatar danego użytkownika w pełnej rozdzielczości
 |**/przypomnij** [czas] [oczym]|Przypomina autorowi komendy o danej rzeczy
 |**zgłoś wiadomość** <small>(message menu)</small>|Zgłasza wiadomość użytkownika wraz z jego wiadomością
