@@ -1,0 +1,2 @@
+- [Start](Start.md "Start")
+- [Terms & Privacy](legal.md)
