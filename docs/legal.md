@@ -1,5 +1,4 @@
-# Terms of Service & Privacy Policy
-
+<h1>Terms of Service & Privacy Policy</h1><!-- {docsify-ignore} -->
 
 ## <h1>1. Warunki korzystania</h1><!-- {docsify-ignore} -->
 
