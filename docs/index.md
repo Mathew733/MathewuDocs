@@ -42,9 +42,9 @@ Dlatego ważna jest zmiana permisji komend w
 |**/unban** [ID] (powód bana) [powód unbana]| Odbanowywuje osobę, ``(powód bana)`` nie jest wymagany
 |**/nick** [user]|Zmienia nick podanego usera
 |**/bulk** [ilość]|Usuwa daną ilość wiadomości na kanale
-|**edytuj** [rola] <small>(message menu)</small>| Edytuje wiadomość bota (tylko tekst)
 |**/przypnij** [wiadomość]|Przypina daną wiadomość na kanale w imieniu bota
 |**/ilerola** [rola]|Ile użytkowników posiada daną rolę
+|**/invite_info** [invite]|Informacje o zaproszeniu
 |/czasowa [user] [ranga] [dni] |<small>Do zrobienia</small>|
 |/nadajrole [user] [ranga] |<small>Do zrobienia</small>|
 |/usunrole  [user] [ranga] |<small>Do zrobienia</small>|
@@ -53,8 +53,10 @@ Dlatego ważna jest zmiana permisji komend w
 
 |Nazwa|Opis|
 | --- | -- |
-|**/nick_bot** [nick]|Ustawia nick bota na serwerze|
+|**/nick_bot** [nick]|Zmienia nick bota na serwerze|
 |**/wiad** [kanał] [treść]| Wysyła treść na podany kanał w imieniu bota|
+|**edytuj** [rola] <small>(message menu)</small>| Edytuje wiadomość bota (tylko tekst)
+|**/invite_utwórz** [kanał] [liczba]|Tworzy zaproszenie serwera w imieniu bota|
 <!-- tab:Ustawienia serwera -->
 |Nazwa|Opis|
 | --- | -- |
