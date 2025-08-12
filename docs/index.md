@@ -1,6 +1,79 @@
 # MathewuBot <small>``V1.0.0``</small> <!-- {docsify-ignore} -->
-Kkonfigurowalny, wielofunkcyjny bot Discord.
+Konfigurowalny, wielofunkcyjny bot Discord.
 
-?>Strona w budowie
+>Strona w budowie - **Discord contact:**  [mathew733](https://discordapp.com/users/294911538848858112)
 
-?>**Discord contact:**  [mathew733](https://discordapp.com/users/294911538848858112)
+### Szybki spis komend<!-- {docsify-ignore} -->
+!> Nie wpisuj dosłownie `<` `>` `[` `]` `|` itp.
+
+<!-- tabs:start -->
+
+<!-- tab:Publiczne -->
+|Nazwa|Opis|
+| --- | ---|
+|**/dokumentacja**, **/komendy**| Wysyła link do Docs
+|**/AvatarURL** [user]|Przesyła avatar danego użytkownika w pełnej rozdzielczości
+|**/przypomnij** [czas] [oczym]|Przypomina autorowi komendy o danej rzeczy
+|**zgłoś wiadomość** <small>(message menu)</small>|Zgłasza wiadomość użytkownika wraz z jego wiadomością
+|**zgłoś użytkownika** <small>(user menu)</small>|Zgłasza użytkownika
+<!-- tab:Fun -->
+|Nazwa|Opis|
+| --- | -- |
+|**/kot**|Wysyła randomowe zdjęcie kotka|
+|**/pies**|Wysyła randomowe zdjęcie psa|
+|**/zwierze** [typ]|Wysyła randomowe zdjęcie wybranego typu zwierzęcia|
+|**/random** [od] [do]| Losuje randomową liczbę w podanym zakresie|
+<!-- tab:Moderacyjne -->
+!>Komend __Moderacyjnych__ może użyć **każdy** kto ma permisje do usuwania wiadomości!              
+Dlatego ważna jest zmiana permisji komend w 
+``Ustawienia serwera->integracje->Mathewu``<img src="_media/integracje.gif" alt="gif" width="60%">
+
+?> Osoby z permisją ``zarządzanie wiadomościami`` nie mogą zostać zmutowani, wyrzuceni czy zbanowani.ㅤㅤㅤㅤㅤㅤㅤㅤUprawnienie ``Administrator`` nadpisuje tę zasadę.
+
+|Nazwa|Opis|
+| --- | -- |
+|**/UserInfo** [user]| Przesyła wszystkie dostępne informacje o userze wraz z jego mutami, banami itp.
+|**/warn** [user] [powód]| Ostrzega użytkownika na PW
+|**/mute** [user] [czas] [powód]| Nadaje discordowego timeout'a na podaną ilość czasu
+|**/unmute** [user] [czas] [powiadomienie]| Odmutowywuje usera z powiadomieniem lub bez na PW
+|**/kick** [user] [powód]| Wyrzuca usera z serwera
+|**/ban** [user] [powód] [powiadomienie]| Banuje usera z serwera wraz z powiadomieniem lub bez na PW
+|**/scamban** [user]|Banuje użytkownika wysyłającego podejrzane linki oraz usuwa jego wiadomości 2 dni wstecz
+|**/unban** [ID] (powód bana) [powód unbana]| Odbanowywuje osobę, ``(powód bana)`` nie jest wymagany
+|**/nick** [user]|Zmienia nick podanego usera
+|**/bulk** [ilość]|Usuwa daną ilość wiadomości na kanale
+|**edytuj** [rola] <small>(message menu)</small>| Edytuje wiadomość bota (tylko tekst)
+|**/przypnij** [wiadomość]|Przypina daną wiadomość na kanale w imieniu bota
+|**/ilerola** [rola]|Ile użytkowników posiada daną rolę
+|/czasowa [user] [ranga] [dni] |<small>Do zrobienia</small>|
+|/nadajrole [user] [ranga] |<small>Do zrobienia</small>|
+|/usunrole  [user] [ranga] |<small>Do zrobienia</small>|
+<!-- tab:Administracyjne -->
+?> Tylko ``Administrator`` ``Zarządzanie serwerem`` może użyć tych komend.
+
+|Nazwa|Opis|
+| --- | -- |
+|**/nick_bot** [nick]|Ustawia nick bota na serwerze|
+|**/wiad** [kanał] [treść]| Wysyła treść na podany kanał w imieniu bota|
+<!-- tab:Ustawienia serwera -->
+|Nazwa|Opis|
+| --- | -- |
+|**/startup**|Tworzy kanały log'a gdy ich nie posiadamy oraz zapisuje ich ``ID``|
+|**/ustawienia-serwera**| Zarządzanie wszystkimi zapisanymi kanałami|
+|**/ustawienia-sugestii** [kanał]|Ustawia kanał [kanał] jako sugestie|
+|**/ustawienia-przywitania** [kanał] [obraz]| Ustawia kanał [kanał] jako przywitalnia dla nowych członków |
+|/ticket| <small>Do zrobienia</small> |
+<!-- tab:Bot Owner -->
+``/stop`` ``/restart`` ``/aktywnosc [typ] [nazwa]`` ``/leave_server [ID]`` ``/nodejs``
+
+<!-- tab:Custom commands -->
+<h2>Mogaro & Reiko</h2>
+
+ - **Komendy**
+   - ``/ticket-mogaro`` ``/giw`` ``/ilepatronów`` ``/czat`` ``/level`` ``/odc`` ``/odcplus`` ``/strony`` ``/patronite`` ``/ranking`` ``/Team_emails`` ``/email_mod`` 
+ - **Eventy**
+   - ``propozycje tłumaczeń`` ``https delete`` ``RSS Blog`` ``Statystyki vc kanał`` ``auto level``
+---
+<medium> Po customowe komendy skontaktuj się z [mathew733](https://discordapp.com/users/294911538848858112) </medium>
+<!-- tabs:end -->
+
