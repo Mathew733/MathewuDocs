@@ -45,7 +45,6 @@ Dlatego ważna jest zmiana permisji komend w
 |**/przypnij** [wiadomość]|Przypina daną wiadomość na kanale w imieniu bota
 |**/ilerola** [rola]|Ile użytkowników posiada daną rolę
 |**/invite_info** [invite]|Informacje o zaproszeniu
-|**/server_info**|
 |/czasowa [user] [ranga] [dni] |<small>Do zrobienia</small>|
 |/nadajrole [user] [ranga] |<small>Do zrobienia</small>|
 |/usunrole  [user] [ranga] |<small>Do zrobienia</small>|
@@ -58,6 +57,7 @@ Dlatego ważna jest zmiana permisji komend w
 |**/wiad** [kanał] [treść]| Wysyła treść na podany kanał w imieniu bota|
 |**edytuj** [rola] <small>(message menu)</small>| Edytuje wiadomość bota (tylko tekst)
 |**/invite_utwórz** [kanał] [liczba]|Tworzy zaproszenie serwera w imieniu bota|
+|**/server_info**| Informacje o serwerze
 <!-- tab:Ustawienia serwera -->
 |Nazwa|Opis|
 | --- | -- |
@@ -67,7 +67,7 @@ Dlatego ważna jest zmiana permisji komend w
 |**/ustawienia-przywitania** [kanał] [obraz]| Ustawia kanał [kanał] jako przywitalnia dla nowych członków |
 |/ticket| <small>Do zrobienia</small> |
 <!-- tab:Bot Owner -->
-``/stop`` ``/restart`` ``/aktywnosc [typ] [nazwa]`` ``/leave_server [ID]`` ``/nodejs`` ``BotJoin`` ``!botinfo``
+``/stop`` ``/restart`` ``/aktywnosc [typ] [nazwa]`` ``/leave_server [ID]`` ``!nodejs`` ``BotJoin`` ``!botinfo``
 
 <!-- tab:Custom commands -->
 <h2>Mogaro & Reiko</h2>
