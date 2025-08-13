@@ -45,6 +45,7 @@ Dlatego ważna jest zmiana permisji komend w
 |**/przypnij** [wiadomość]|Przypina daną wiadomość na kanale w imieniu bota
 |**/ilerola** [rola]|Ile użytkowników posiada daną rolę
 |**/invite_info** [invite]|Informacje o zaproszeniu
+|**/server_info**|
 |/czasowa [user] [ranga] [dni] |<small>Do zrobienia</small>|
 |/nadajrole [user] [ranga] |<small>Do zrobienia</small>|
 |/usunrole  [user] [ranga] |<small>Do zrobienia</small>|
@@ -66,13 +67,13 @@ Dlatego ważna jest zmiana permisji komend w
 |**/ustawienia-przywitania** [kanał] [obraz]| Ustawia kanał [kanał] jako przywitalnia dla nowych członków |
 |/ticket| <small>Do zrobienia</small> |
 <!-- tab:Bot Owner -->
-``/stop`` ``/restart`` ``/aktywnosc [typ] [nazwa]`` ``/leave_server [ID]`` ``/nodejs``
+``/stop`` ``/restart`` ``/aktywnosc [typ] [nazwa]`` ``/leave_server [ID]`` ``/nodejs`` ``BotJoin`` ``!botinfo``
 
 <!-- tab:Custom commands -->
 <h2>Mogaro & Reiko</h2>
 
  - **Komendy**
-   - ``/ticket-mogaro`` ``/giw`` ``/ilepatronów`` ``/czat`` ``/level`` ``/odc`` ``/odcplus`` ``/strony`` ``/patronite`` ``/ranking`` ``/Team_emails`` ``/email_mod`` 
+   - ``/ticket-mogaro`` ``/giw`` ``/ilepatronów`` ``/czat`` ``/level`` ``/odc`` ``/odcplus`` ``/strony`` ``/patronite`` ``/ranking`` 
  - **Eventy**
    - ``propozycje tłumaczeń`` ``https delete`` ``RSS Blog`` ``Statystyki vc kanał`` ``auto level``
 ---
