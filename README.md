@@ -1,2 +1,2 @@
 # MathewuDocs
-Docs for my private discord bot
+Documentation for my discord private bot
