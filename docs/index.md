@@ -1,7 +1,7 @@
 # MathewuBot <small>``V1.0.0``</small> <!-- {docsify-ignore} -->
-Konfigurowalny, wielofunkcyjny bot Discord.
+Konfigurowalny, wielofunkcyjny bot Discord. 
 
->Strona w budowie - **Discord contact:**  [mathew733](https://discordapp.com/users/294911538848858112)
+>Strona w budowie - **Discord contact:**  [mathew733](https://discordapp.com/users/294911538848858112) 
 
 ### Szybki spis komend<!-- {docsify-ignore} -->
 !> Nie wpisuj dosłownie `<` `>` `[` `]` `|` itp.
@@ -11,6 +11,8 @@ Konfigurowalny, wielofunkcyjny bot Discord.
 <!-- tab:Publiczne -->
 |Nazwa|Opis|
 | --- | ---|
+|**/profil** (user)|Ładuje profil użytkownika
+|**/profil-ustawienia** [ustaw/usuń wszystko] (o mnie,Anilist/shinden/mal,Ulubiona seria/postać,Banner, Kolor)|Ustawia profil użytkownika
 |**/dokumentacja**, **/komendy**| Wysyła link do Docs
 |**/AvatarURL** [user]|Przesyła avatar danego użytkownika w pełnej rozdzielczości
 |**/przypomnij** [czas] [oczym]|Przypomina autorowi komendy o danej rzeczy
@@ -46,8 +48,6 @@ Dlatego ważna jest zmiana permisji komend w
 |**/ilerola** [rola]|Ile użytkowników posiada daną rolę
 |**/invite_info** [invite]|Informacje o zaproszeniu
 |/czasowa [user] [ranga] [dni] |<small>Do zrobienia</small>|
-|/nadajrole [user] [ranga] |<small>Do zrobienia</small>|
-|/usunrole  [user] [ranga] |<small>Do zrobienia</small>|
 <!-- tab:Administracyjne -->
 ?> Tylko ``Administrator`` ``Zarządzanie serwerem`` może użyć tych komend.
 
@@ -55,19 +55,22 @@ Dlatego ważna jest zmiana permisji komend w
 | --- | -- |
 |**/nick_bot** [nick]|Zmienia nick bota na serwerze|
 |**/wiad** [kanał] [treść]| Wysyła treść na podany kanał w imieniu bota|
-|**edytuj** [rola] <small>(message menu)</small>| Edytuje wiadomość bota (tylko tekst)
+|**edytuj** <small>(message menu)</small>| Edytuje wiadomość bota (tylko tekst)
 |**/invite_utwórz** [kanał] [liczba]|Tworzy zaproszenie serwera w imieniu bota|
 |**/server_info**| Informacje o serwerze
 <!-- tab:Ustawienia serwera -->
+?> Tylko ``Administrator`` może użyć tych komend. Komendy nie są idiotoodporne!
+
 |Nazwa|Opis|
 | --- | -- |
 |**/startup**|Tworzy kanały log'a gdy ich nie posiadamy oraz zapisuje ich ``ID``|
-|**/ustawienia-serwera**| Zarządzanie wszystkimi zapisanymi kanałami|
+|**/ustawienia-serwera**| Zarządzanie wszystkimi zapisanymi kanałami <small>*Pamiętaj aby w ticket-category oznaczyć kategorie! nie kanał!*</small>|
 |**/ustawienia-sugestii** [kanał]|Ustawia kanał [kanał] jako sugestie|
 |**/ustawienia-przywitania** [kanał] [obraz]| Ustawia kanał [kanał] jako przywitalnia dla nowych członków |
-|/ticket| <small>Do zrobienia</small> |
+|**/ticket** [prześlij/ustaw] (opis) (tytuł)| Przesyła ticket menu na kanał oraz ustawia odpowiednie kanały |
+|**/transkrypt** | Tworzy transkrypt całego kanału |
 <!-- tab:Bot Owner -->
-``/stop`` ``/restart`` ``/aktywnosc [typ] [nazwa]`` ``/leave_server [ID]`` ``!nodejs`` ``BotJoin`` ``!botinfo``
+``/stop`` ``/restart`` ``/aktywnosc [typ] [nazwa]`` ``/leave_server [ID]`` ``!nodejs`` ``BotJoin`` ``!botinfo`` ``/ustawienia-ticket``
 
 <!-- tab:Custom commands -->
 <h2>Mogaro & Reiko</h2>
@@ -79,4 +82,3 @@ Dlatego ważna jest zmiana permisji komend w
 ---
 <medium> Po customowe komendy skontaktuj się z [mathew733](https://discordapp.com/users/294911538848858112) </medium>
 <!-- tabs:end -->
-
