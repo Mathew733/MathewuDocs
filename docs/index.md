@@ -30,7 +30,7 @@ Konfigurowalny, wielofunkcyjny bot Discord.
 Dlatego ważna jest zmiana permisji komend w 
 ``Ustawienia serwera->integracje->Mathewu``<img src="_media/integracje.gif" alt="gif" width="60%">
 
-?> Osoby z permisją ``zarządzanie wiadomościami`` nie mogą zostać zmutowani, wyrzuceni czy zbanowani.ㅤㅤㅤㅤㅤㅤㅤㅤUprawnienie ``Administrator`` nadpisuje tę zasadę.
+?> Osoby z permisją ``zarządzanie wiadomościami`` nie mogą zostać zmutowani, wyrzuceni czy zbanowani.ㅤㅤㅤㅤㅤㅤㅤㅤUprawnienie ``zarządzanie wiadomościami+zarządzanie serwerem``, ``Administrator`` nadpisuje tę zasadę.
 
 |Nazwa|Opis|
 | --- | -- |
