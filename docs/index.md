@@ -47,7 +47,6 @@ Dlatego ważna jest zmiana permisji komend w
 |**/przypnij** [wiadomość]|Przypina daną wiadomość na kanale w imieniu bota
 |**/ilerola** [rola]|Ile użytkowników posiada daną rolę
 |**/invite_info** [invite]|Informacje o zaproszeniu
-|/czasowa [user] [ranga] [dni] |<small>Do zrobienia</small>|
 <!-- tab:Administracyjne -->
 ?> Tylko ``Administrator`` ``Zarządzanie serwerem`` może użyć tych komend.
 
