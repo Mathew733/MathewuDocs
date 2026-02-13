@@ -29,7 +29,7 @@ Konfigurowalny, wielofunkcyjny bot Discord.
 !>Komend __Moderacyjnych__ może użyć **każdy** kto ma permisje do usuwania wiadomości!              
 Dlatego ważna jest zmiana permisji komend w 
 ``Ustawienia serwera->integracje->Mathewu``<img src="_media/integracje.gif" alt="gif" width="60%">
-!> Od dnia 13.02.2026 message log zwraca tylko usunięte gify,png,jpg oraz wiadomości głosowe!
+
 ?> Osoby z permisją ``zarządzanie wiadomościami`` nie mogą zostać zmutowani, wyrzuceni czy zbanowani.ㅤㅤㅤㅤㅤㅤㅤㅤUprawnienie ``zarządzanie wiadomościami+zarządzanie serwerem``, ``Administrator`` nadpisuje tę zasadę.
 
 |Nazwa|Opis|
@@ -58,6 +58,7 @@ Dlatego ważna jest zmiana permisji komend w
 |**/invite_utwórz** [kanał] [liczba]|Tworzy zaproszenie serwera w imieniu bota|
 |**/server_info**| Informacje o serwerze
 <!-- tab:Ustawienia serwera -->
+!> Od dnia 13.02.2026 message log zwraca tylko usunięte gify,png,jpg oraz wiadomości głosowe!
 ?> Tylko ``Administrator`` może użyć tych komend. Komendy nie są idiotoodporne!
 
 |Nazwa|Opis|
@@ -81,4 +82,5 @@ Dlatego ważna jest zmiana permisji komend w
 ---
 <medium> Po customowe komendy skontaktuj się z [mathew733](https://discordapp.com/users/294911538848858112) </medium>
 <!-- tabs:end -->
+
 
