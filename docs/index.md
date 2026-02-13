@@ -1,7 +1,7 @@
 # MathewuBot <small>``V1.0.0``</small> <!-- {docsify-ignore} -->
 Konfigurowalny, wielofunkcyjny bot Discord. 
 
-!> **Od dnia 13.02.2026 message log zwraca tylko usunięte obrazki/gify oraz wiadomości głosowe!**
+!> **Od dnia 13.02.2026 message log nie zwraca edytowanych wiadomości!**
 >Strona w budowie - **Discord contact:**  [mathew733](https://discordapp.com/users/294911538848858112) 
 
 ### Szybki spis komend<!-- {docsify-ignore} -->
@@ -59,7 +59,7 @@ Dlatego ważna jest zmiana permisji komend w
 |**/invite_utwórz** [kanał] [liczba]|Tworzy zaproszenie serwera w imieniu bota|
 |**/server_info**| Informacje o serwerze
 <!-- tab:Ustawienia serwera -->
-!> *Od dnia 13.02.2026 message log zwraca tylko usunięte obrazki/gify oraz wiadomości głosowe!*
+!> *Od dnia 13.02.2026 message log nie zwraca edytowanych wiadomości!*
 
 ?> Tylko ``Administrator`` może użyć tych komend. Komendy nie są idiotoodporne!
 
@@ -84,3 +84,4 @@ Dlatego ważna jest zmiana permisji komend w
 ---
 <medium> Po customowe komendy skontaktuj się z [mathew733](https://discordapp.com/users/294911538848858112) </medium>
 <!-- tabs:end -->
+
