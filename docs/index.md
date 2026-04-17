@@ -1,7 +1,7 @@
 # MathewuBot <small>``V1.0.0``</small> <!-- {docsify-ignore} -->
 Konfigurowalny, wielofunkcyjny bot Discord. 
 
-!> **Od dnia 13.02.2026 message log nie zwraca edytowanych wiadomości!**
+!> **Od dnia 13.02.2026 message log zwraca tylko usunięte obrazki/gify oraz wiadomości głosowe!**
 >Strona w budowie - **Discord contact:**  [mathew733](https://discordapp.com/users/294911538848858112) 
 
 ### Szybki spis komend<!-- {docsify-ignore} -->
@@ -59,7 +59,7 @@ Dlatego ważna jest zmiana permisji komend w
 |**/invite_utwórz** [kanał] [liczba]|Tworzy zaproszenie serwera w imieniu bota|
 |**/server_info**| Informacje o serwerze
 <!-- tab:Ustawienia serwera -->
-!> *Od dnia 13.02.2026 message log nie zwraca edytowanych wiadomości!*
+!> *Od dnia 13.02.2026 message log zwraca tylko usunięte obrazki/gify oraz wiadomości głosowe!*
 
 ?> Tylko ``Administrator`` może użyć tych komend. Komendy nie są idiotoodporne!
 
@@ -72,7 +72,7 @@ Dlatego ważna jest zmiana permisji komend w
 |**/ticket** [prześlij/ustaw] (opis) (tytuł)| Przesyła ticket menu na kanał oraz ustawia odpowiednie kanały |
 |**/transkrypt** | Tworzy transkrypt całego kanału |
 <!-- tab:Bot Owner -->
-``/stop`` ``/restart`` ``/aktywnosc [typ] [nazwa]`` ``/leave_server [ID]`` ``!nodejs`` ``BotJoin`` ``!botinfo`` ``/ustawienia-ticket``
+``/stop`` ``/restart`` ``/aktywnosc [typ] [nazwa]`` ``/leave_server [ID]`` ``!nodejs`` ``BotJoin`` ``!botinfo`` ``/ustawienia-ticket`` ``!syncroles``
 
 <!-- tab:Custom commands -->
 <h2>Mogaro & Reiko</h2>
@@ -80,8 +80,12 @@ Dlatego ważna jest zmiana permisji komend w
  - **Komendy**
    - ``/ticket-mogaro`` ``/giw`` ``/ilepatronów`` ``/czat`` ``/level`` ``/odc`` ``/odcplus`` ``/strony`` ``/patronite`` ``/ranking`` 
  - **Eventy**
-   - ``propozycje tłumaczeń`` ``https delete`` ``RSS Blog`` ``Statystyki vc kanał`` ``auto level``
+   - ``propozycje tłumaczeń`` ``https delete`` ``RSS Blog`` ``Statystyki vc kanał`` ``auto level`` ``CrossRole.added`` ``CrossRole.removed`` ``CrossRole.joined``
+---
+<h2>ReikoProject</h2>
+
+- **Eventy**
+  - ``RRS Blog`` ``CrossRole.added`` ``CrossRole.removed`` ``CrossRole.joined``
 ---
 <medium> Po customowe komendy skontaktuj się z [mathew733](https://discordapp.com/users/294911538848858112) </medium>
 <!-- tabs:end -->
-
