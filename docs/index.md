@@ -1,4 +1,4 @@
-# MathewuBot <small>``V1.0.0``</small> <!-- {docsify-ignore} -->
+# MathewuBot <small>``V1.0.1``</small> <!-- {docsify-ignore} -->
 Konfigurowalny, wielofunkcyjny bot Discord. 
 
 !> **Od dnia 13.02.2026 message log zwraca tylko usunięte obrazki/gify oraz wiadomości głosowe!**
