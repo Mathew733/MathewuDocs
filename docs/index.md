@@ -1,4 +1,4 @@
-# MathewuBot <small>``V1.0.1``</small> <!-- {docsify-ignore} -->
+# MathewuBot <small>``V1.0.0``</small> <!-- {docsify-ignore} -->
 Konfigurowalny, wielofunkcyjny bot Discord. 
 
 !> **Od dnia 13.02.2026 message log zwraca tylko usunięte obrazki/gify oraz wiadomości głosowe!**
@@ -80,12 +80,18 @@ Dlatego ważna jest zmiana permisji komend w
  - **Komendy**
    - ``/ticket-mogaro`` ``/giw`` ``/ilepatronów`` ``/czat`` ``/level`` ``/odc`` ``/odcplus`` ``/strony`` ``/patronite`` ``/ranking`` 
  - **Eventy**
-   - ``propozycje tłumaczeń`` ``https delete`` ``RSS Blog`` ``Statystyki vc kanał`` ``auto level`` ``CrossRole.added`` ``CrossRole.removed`` ``CrossRole.joined``
----
+   - ``CrossRole`` ``RSS Blog`` ``propozycje tłumaczeń`` ``https delete`` ``RSS Blog`` ``Statystyki vc kanał`` ``auto level``
+
 <h2>ReikoProject</h2>
 
 - **Eventy**
-  - ``RRS Blog`` ``CrossRole.added`` ``CrossRole.removed`` ``CrossRole.joined``
----
+  - ``CrossRole`` ``RRS Blog``
+
+<h2>KathSubs</h2>
+
+- **Eventy**
+  - ``CrossRole`` ``RRS Blog webhook``
+
+
 <medium> Po customowe komendy skontaktuj się z [mathew733](https://discordapp.com/users/294911538848858112) </medium>
 <!-- tabs:end -->
